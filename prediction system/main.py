@@ -19,7 +19,7 @@ pwd_cxt = CryptContext(schemes=["bcrypt"], deprecated= "auto")
 # Données de l'utilisateur initial
 INITIAL_USER = {
     "username": "abderrahimelouardi@gmail.com",
-    "password": "elouardi123"
+    "password": "elou"
 }
 
 def create_initial_user():
